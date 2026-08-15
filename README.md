@@ -2,6 +2,8 @@
 
 Cyberpunk 2077（夜之城）风格的 DSH Web UI 主题插件。纯浏览器客户端插件，零音频资源（全部 Web Audio 实时合成）。
 
+![NIGHT CITY — screenshot](assets/screenshot.png)
+
 ## 视觉
 
 - **配色**：NC 黄 `#FCE300` / 霓虹青 `#00F0FF` / 玫红 / 近黑夜蓝底
