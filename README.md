@@ -60,6 +60,8 @@ dsh plugin --profile web add dsh-theme-cyberpunk2077
 - 在输入框输入 `relic` 并发送 → **「WAKE UP, SAMURAI. WE HAVE A CITY TO BURN.」** 全屏故障时刻
 - 在输入框输入 `johnny` 并发送 → 强尼·银手夺屏 2.6 秒：全屏去饱和 + 红青色散 + 画面撕裂 + 随机台词（中英双语）+ 低频嗡鸣
 
+![RELIC — WAKE UP, SAMURAI](assets/relic-easter-egg.png)
+
 （系统开启「减弱动态效果」时，彩蛋会自动收敛，不吓你一跳。）
 
 ## 🛡️ 性能护栏
