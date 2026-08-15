@@ -1,6 +1,6 @@
 {
   "name": "dsh-theme-cyberpunk2077",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Cyberpunk 2077 / Night City theme for the DeepSeek Harness Web UI — NC yellow × neon cyan identity, CRT scanlines, Kiroshi hover lock-on, combat-state HUD, synthesized typewriter & message SFX, boot glitch, Relic interference, slang chips, and hidden easter eggs (try sending: relic / johnny).",
   "repository": {
     "type": "git",
