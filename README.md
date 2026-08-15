@@ -28,6 +28,8 @@ dsh plugin --profile web add dsh-theme-cyberpunk2077
 
 重启 `dsh web`，NIGHT CITY 开机转场之后，欢迎来到 2077。
 
+> 💡 **装不上 / 启动崩溃？** 确认装的是 **≥ 0.1.4**（`npm view dsh-theme-cyberpunk2077 version`）。0.1.3 及更早版本发布时漏打了 `cordis.patch.yml`，安装后会因找不到补丁文件启动失败——升级到 0.1.4 即可。
+
 > 想微调？右下角 `DECK` 按钮打开控制面板，每个特效独立开关；`SND` 一键静音全部。
 
 ## 🌆 视觉：夜之城的皮
@@ -83,6 +85,8 @@ assets/          # README 截图
 ## 🧹 想卸载？
 
 把 `cordis.patch.yml` 里的 `ui-theme-cyberpunk` 行删掉，再移除依赖并重启 `dsh web` 即可。夜之城随时欢迎你回来。
+
+> ⚠️ **`dsh plugin rm` 的已知坑**：它不会自动清掉 `cordis.patch.yml` 里已插入的主题行。卸载后如果重启 `dsh web` 报找不到包，手动删掉 profile 补丁里的 `ui-theme-cyberpunk` 行（见上），再重启一次就好。另注意 `0.1.3` 及更早版本存在安装即崩溃的问题，卸载请认准 `0.1.4+`。
 
 ## 📜 许可证
 
