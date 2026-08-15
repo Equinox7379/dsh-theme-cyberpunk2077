@@ -17,7 +17,8 @@
   "files": [
     "lib",
     "README.md",
-    "assets"
+    "assets",
+    "cordis.patch.yml"
   ],
   "keywords": [
     "deepseek",
