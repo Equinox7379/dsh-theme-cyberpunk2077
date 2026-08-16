@@ -1,5 +1,9 @@
 # dsh-theme-cyberpunk2077 — NIGHT CITY EDITION
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![npm](https://img.shields.io/npm/v/dsh-theme-cyberpunk2077?color=FCE300&label=npm&logo=npm&logoColor=black)](https://www.npmjs.com/package/dsh-theme-cyberpunk2077)
+[![⭐ DSH 插件市场](https://img.shields.io/static/v1?label=%E2%AD%90%20DSH&message=%E6%8F%92%E4%BB%B6%E5%B8%82%E5%9C%BA&color=7C3AED&style=flat-square)](https://dshfind.com/zh/plugins/Tommy00748/dsh-theme-cyberpunk2077)
+
 > 欢迎来到夜之城。你的 DeepSeek Harness 已经被改装过了。
 
 Cyberpunk 2077（夜之城）风格的 DSH Web UI 主题。纯浏览器客户端插件，零音频资源——所有声音都是 Web Audio 实时合成，不下载一个字节的音频文件。
